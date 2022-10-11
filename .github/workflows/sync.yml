@@ -14,7 +14,7 @@ jobs:
       - name: GitHub Sync to Upstream Repository
         uses: rovast/sync-upstream-repo@v0.0.1
         with: 
-          upstream_repo: https://github.com/dabreadman/sync-upstream-repo # change this
+          upstream_repo: https://github.com/eryajf/Thanks-Mirror # change this
           upstream_branch: main # change this
           downstream_branch: main # change this
           token: ${{ secrets.GITHUB_TOKEN }}
