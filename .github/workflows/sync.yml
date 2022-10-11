@@ -17,4 +17,4 @@ jobs:
           upstream_repo: https://github.com/dabreadman/sync-upstream-repo # change this
           upstream_branch: main # change this
           downstream_branch: main # change this
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
