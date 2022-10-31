@@ -361,6 +361,8 @@ $ gem install rails
   - [https://mirrors.bfsu.edu.cn/rubygems/](https://mirrors.bfsu.edu.cn/rubygems/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/rubygems/](https://mirrors.hit.edu.cn/rubygems/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/rubygems/](https://mirror.nju.edu.cn/rubygems/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -488,6 +490,8 @@ yum install -y https://mirrors.tuna.tsinghua.edu.cn/remi/enterprise/remi-release
   - [http://mirrors.yun-idc.com/remi/](http://mirrors.yun-idc.com/remi/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/remi/](https://mirrors.bfsu.edu.cn/remi/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/remi/](https://mirror.nju.edu.cn/remi/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -540,6 +544,8 @@ wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo
   - [https://mirrors.bfsu.edu.cn/epel/](https://mirrors.bfsu.edu.cn/epel/)
 - 公云
   - [https://mirrors.pubyun.com/epel/](https://mirrors.pubyun.com/epel/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/epel/](http://mirrors.njupt.edu.cn/epel/)
 
 
 🔝[回到顶部](#thanks-mirror)
@@ -643,6 +649,10 @@ git-fetch-with-cli = true
   - [https://mirrors.hit.edu.cn/docker-ce](https://mirrors.hit.edu.cn/docker-ce)
 - 上海交通
   - [https://mirror.sjtu.edu.cn/docker-ce/](https://mirror.sjtu.edu.cn/docker-ce/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/docker-ce/](https://mirrors.nwsuaf.edu.cn/docker-ce/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/docker-ce/](https://mirror.nju.edu.cn/docker-ce/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -681,6 +691,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/github-release/k3s-io/k3s/](https://mirrors.tuna.tsinghua.edu.cn/github-release/k3s-io/k3s/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/github-release/k3s-io/k3s/](https://mirrors.bfsu.edu.cn/github-release/k3s-io/k3s/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/github-release/k3s-io/k3s/](https://mirror.nju.edu.cn/github-release/k3s-io/k3s/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -696,6 +708,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/github-release/kubernetes/minikube/](https://mirrors.tuna.tsinghua.edu.cn/github-release/kubernetes/minikube/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/github-release/kubernetes/minikube/](https://mirrors.bfsu.edu.cn/github-release/kubernetes/minikube/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/github-release/kubernetes/minikube/](https://mirror.nju.edu.cn/github-release/kubernetes/minikube/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -725,6 +739,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/github-release/goharbor/harbor/](https://mirrors.tuna.tsinghua.edu.cn/github-release/goharbor/harbor/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/github-release/goharbor/harbor/](https://mirrors.bfsu.edu.cn/github-release/goharbor/harbor/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/github-release/goharbor/harbor/](https://mirror.nju.edu.cn/github-release/goharbor/harbor/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -755,6 +771,9 @@ git-fetch-with-cli = true
 - 北京外国语大学
   - 安装包：[https://mirrors.bfsu.edu.cn/jenkins/war/](https://mirrors.bfsu.edu.cn/jenkins/war/)
   - 插件：[https://mirrors.bfsu.edu.cn/jenkins/plugins/](https://mirrors.bfsu.edu.cn/jenkins/plugins/)
+- 南京大学
+  - 安装包：[https://mirror.nju.edu.cn/jenkins/war](https://mirror.nju.edu.cn/jenkins/war/)
+  - 插件：[https://mirror.nju.edu.cn/jenkins/plugins](https://mirror.nju.edu.cn/jenkins/plugins/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -775,6 +794,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/](https://mirrors.tuna.tsinghua.edu.cn/gitlab-ce/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/gitlab-ce/](https://mirrors.bfsu.edu.cn/gitlab-ce/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/gitlab-ce/](https://mirror.nju.edu.cn/gitlab-ce/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -792,6 +813,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/gitlab-runner/](https://mirrors.tuna.tsinghua.edu.cn/gitlab-runner/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/gitlab-runner/](https://mirrors.bfsu.edu.cn/gitlab-runner/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/gitlab-runner/](https://mirror.nju.edu.cn/gitlab-runner/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -813,6 +836,8 @@ git-fetch-with-cli = true
   - [https://mirrors.cloud.tencent.com/elasticstack/](https://mirrors.cloud.tencent.com/elasticstack/)
 - 清华
   - [https://mirrors.tuna.tsinghua.edu.cn/elasticstack/](https://mirrors.tuna.tsinghua.edu.cn/elasticstack/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/elasticstack/](http://mirrors.njupt.edu.cn/elasticstack/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -885,6 +910,8 @@ git-fetch-with-cli = true
   - [https://mirror.nyist.edu.cn/mysql/](https://mirror.nyist.edu.cn/mysql/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/mysql/](https://mirrors.bfsu.edu.cn/mysql/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/mysql/](https://mirror.nju.edu.cn/mysql/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -944,7 +971,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/mongodb/](https://mirrors.tuna.tsinghua.edu.cn/mongodb/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/mongodb/](https://mirrors.bfsu.edu.cn/mongodb/)
-
+- 南京大学
+  - [https://mirror.nju.edu.cn/mongodb/](https://mirror.nju.edu.cn/mongodb/)
 - 上海交通大学
   - [https://mirrors.sjtug.sjtu.edu.cn/mongodb/](https://mirrors.sjtug.sjtu.edu.cn/mongodb/)
 
@@ -988,6 +1016,8 @@ git-fetch-with-cli = true
   - [https://mirror.nyist.edu.cn/postgresql/](https://mirror.nyist.edu.cn/postgresql/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/postgresql/](https://mirrors.bfsu.edu.cn/postgresql/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/postgresql/](https://mirror.nju.edu.cn/postgresql/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1007,6 +1037,8 @@ git-fetch-with-cli = true
   - [https://gomirrors.org/](https://gomirrors.org/)
 - 中科大
   - [https://mirrors.ustc.edu.cn/golang/](https://mirrors.ustc.edu.cn/golang/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/golang/](https://mirror.nju.edu.cn/golang/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1030,6 +1062,8 @@ git-fetch-with-cli = true
   - [https://mirrors.ustc.edu.cn/node/](https://mirrors.ustc.edu.cn/node/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/nodejs-release/](https://mirrors.bfsu.edu.cn/nodejs-release/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/nodejs/](https://mirror.nju.edu.cn/nodejs/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1056,6 +1090,8 @@ git-fetch-with-cli = true
 
 - HUAWEI
   - [https://repo.huaweicloud.com/python/](https://repo.huaweicloud.com/python/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/python/](https://mirror.bjtu.edu.cn/python/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1107,6 +1143,10 @@ git-fetch-with-cli = true
   - [https://mirror.nyist.edu.cn/zabbix/](https://mirror.nyist.edu.cn/zabbix/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/zabbix/](https://mirrors.bfsu.edu.cn/zabbix/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/zabbix/](http://mirrors.njupt.edu.cn/zabbix/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/zabbix/](https://mirrors.nwsuaf.edu.cn/zabbix/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1122,6 +1162,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/](https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/github-release/prometheus/prometheus/](https://mirrors.bfsu.edu.cn/github-release/prometheus/prometheus/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/github-release/prometheus/](https://mirror.nju.edu.cn/github-release/prometheus/)
 - 上海交通大学
   - [https://mirror.sjtu.edu.cn/github-release/prometheus/?mirror_intel_list](https://mirror.sjtu.edu.cn/github-release/prometheus/?mirror_intel_list)
     此地址下包含了prometheus应用体系的大部分软件，包含：
@@ -1159,6 +1201,10 @@ git-fetch-with-cli = true
   - [https://mirrors.bfsu.edu.cn/grafana/](https://mirrors.bfsu.edu.cn/grafana/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/grafana/](https://mirrors.hit.edu.cn/grafana/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/grafana/](https://mirrors.nwsuaf.edu.cn/grafana/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/grafana/](https://mirror.nju.edu.cn/grafana/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1197,6 +1243,10 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/apache/](https://mirrors.tuna.tsinghua.edu.cn/apache/)
 - 中科大
   - [https://mirrors.ustc.edu.cn/apache/](https://mirrors.ustc.edu.cn/apache/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/apache/](https://mirror.bjtu.edu.cn/apache/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/apache/](https://mirror.nju.edu.cn/apache/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1214,6 +1264,10 @@ git-fetch-with-cli = true
   - [http://mirrors.sohu.com/nginx/](http://mirrors.sohu.com/nginx/)
 - 中科大
   - [https://mirrors.ustc.edu.cn/nginx/](https://mirrors.ustc.edu.cn/nginx/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/nginx/](https://mirrors.nwsuaf.edu.cn/nginx/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/nginx/](https://mirror.nju.edu.cn/nginx/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1235,6 +1289,10 @@ git-fetch-with-cli = true
   - [https://mirrors.ustc.edu.cn/openresty/](https://mirrors.ustc.edu.cn/openresty/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/openresty/](https://mirrors.bfsu.edu.cn/openresty/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/openresty/](https://mirrors.nwsuaf.edu.cn/openresty/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/openresty/](https://mirror.nju.edu.cn/openresty/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1273,6 +1331,8 @@ git-fetch-with-cli = true
   - [https://mirrors.cqu.edu.cn/ceph/](https://mirrors.cqu.edu.cn/ceph/)
 - 中科大
   - [https://mirrors.ustc.edu.cn/ceph/](https://mirrors.ustc.edu.cn/ceph/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/ceph/](https://mirror.nju.edu.cn/ceph/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1292,6 +1352,8 @@ git-fetch-with-cli = true
   - [https://mirrors.ustc.edu.cn/influxdata/](https://mirrors.ustc.edu.cn/influxdata/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/influxdata/](https://mirrors.bfsu.edu.cn/influxdata/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/influxdata/](https://mirror.nju.edu.cn/influxdata/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1305,6 +1367,8 @@ git-fetch-with-cli = true
 
 - Aliyun
   - [https://mirrors.aliyun.com/clickhouse/](https://mirrors.aliyun.com/clickhouse/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/clickhouse/](https://mirror.nju.edu.cn/clickhouse/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1384,6 +1448,8 @@ git-fetch-with-cli = true
   - [https://mirrors.tuna.tsinghua.edu.cn/iina/](https://mirrors.tuna.tsinghua.edu.cn/iina/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/iina/](https://mirrors.bfsu.edu.cn/iina/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/iina/](https://mirror.nju.edu.cn/iina/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1456,6 +1522,16 @@ git-fetch-with-cli = true
   - [https://mirrors.hit.edu.cn/centos/](https://mirrors.hit.edu.cn/centos/)
 - 公云
   - [https://mirrors.pubyun.com/centos/](https://mirrors.pubyun.com/centos/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/centos/](https://mirror.bjtu.edu.cn/centos/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/centos/](http://mirrors.njupt.edu.cn/centos/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/centos/](https://mirrors.nwsuaf.edu.cn/centos/)
+- 东北大学
+  - [http://mirror.neu.edu.cn/centos/](http://mirror.neu.edu.cn/centos/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/centos/](https://mirror.nju.edu.cn/centos/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1483,6 +1559,8 @@ ARM架构下的CentOS镜像。
   - [https://mirror.lzu.edu.cn/centos-altarch/](https://mirror.lzu.edu.cn/centos-altarch/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/centos-altarch/](https://mirrors.bfsu.edu.cn/centos-altarch/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/centos-altarch/](https://mirror.nju.edu.cn/centos-altarch/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1530,6 +1608,12 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.bfsu.edu.cn/ubuntu/](https://mirrors.bfsu.edu.cn/ubuntu/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/ubuntu](https://mirrors.hit.edu.cn/ubuntu)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/ubuntu/](https://mirror.bjtu.edu.cn/ubuntu/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/ubuntu/](http://mirrors.njupt.edu.cn/ubuntu/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/ubuntu/](https://mirror.nju.edu.cn/ubuntu/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1580,6 +1664,12 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.hit.edu.cn/debian/](https://mirrors.hit.edu.cn/debian/)
 - 公云
   - [https://mirrors.pubyun.com/debian/](https://mirrors.pubyun.com/debian/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/debian/](https://mirror.bjtu.edu.cn/debian/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/debian/](http://mirrors.njupt.edu.cn/debian/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/debian/](https://mirror.nju.edu.cn/debian/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1617,6 +1707,10 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.bfsu.edu.cn/deepin/](https://mirrors.bfsu.edu.cn/deepin/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/deepin/](https://mirrors.hit.edu.cn/deepin/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/deepin/](http://mirrors.njupt.edu.cn/deepin/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/deepin/](https://mirror.nju.edu.cn/deepin/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1652,6 +1746,12 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.cqu.edu.cn/fedora/](https://mirrors.cqu.edu.cn/fedora/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/fedora/](https://mirrors.bfsu.edu.cn/fedora/)
+- 南阳理工
+  - [https://mirror.nyist.edu.cn/fedora/](https://mirror.nyist.edu.cn/fedora/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/fedora/](http://mirrors.njupt.edu.cn/fedora/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/fedora/](https://mirror.nju.edu.cn/fedora/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1687,6 +1787,10 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.sjtug.sjtu.edu.cn/alpine/](https://mirrors.sjtug.sjtu.edu.cn/alpine/)
 - 南方科技大学
   - [https://mirrors.sustech.edu.cn/alpine/](https://mirrors.sustech.edu.cn/alpine/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/alpine/](https://mirror.bjtu.edu.cn/alpine/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/alpine/](https://mirror.nju.edu.cn/alpine/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1706,6 +1810,8 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.cnnic.cn/voidlinux/](https://mirrors.cnnic.cn/voidlinux/)
 - 北京外国语大学
   - [https://mirrors.bfsu.edu.cn/voidlinux/](https://mirrors.bfsu.edu.cn/voidlinux/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/voidlinux/](https://mirror.nju.edu.cn/voidlinux/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1739,6 +1845,8 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.bfsu.edu.cn/gentoo/](https://mirrors.bfsu.edu.cn/gentoo/)
 - 上海交通
   - [https://mirrors.sjtug.sjtu.edu.cn/gentoo/](https://mirrors.sjtug.sjtu.edu.cn/gentoo/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/gentoo/](https://mirror.nju.edu.cn/gentoo/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1774,6 +1882,14 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.hit.edu.cn/kali](https://mirrors.hit.edu.cn/kali)
 - 上海交通大学
   - [https://mirrors.sjtug.sjtu.edu.cn/kali/](https://mirrors.sjtug.sjtu.edu.cn/kali/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/kali/](https://mirror.bjtu.edu.cn/kali/)
+- 南京邮电
+  - [http://mirrors.njupt.edu.cn/kali/](http://mirrors.njupt.edu.cn/kali/)
+- 西北农林科技大学
+  - [https://mirrors.nwsuaf.edu.cn/kali/](https://mirrors.nwsuaf.edu.cn/kali/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/kali/](https://mirror.nju.edu.cn/kali/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1819,6 +1935,10 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.bfsu.edu.cn/opensuse/](https://mirrors.bfsu.edu.cn/opensuse/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/opensuse/](https://mirrors.hit.edu.cn/opensuse/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/opensuse/](https://mirror.bjtu.edu.cn/opensuse/)
+- 南京大学
+  - [http://mirror.nju.edu.cn/opensuse/](http://mirror.nju.edu.cn/opensuse/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1842,6 +1962,10 @@ ARM架构下的CentOS镜像。
   - [https://mirror.lzu.edu.cn/freebsd/](https://mirror.lzu.edu.cn/freebsd/)
 - 首都在线
   - [http://mirrors.yun-idc.com/freebsd/](http://mirrors.yun-idc.com/freebsd/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/freebsd/](https://mirror.bjtu.edu.cn/freebsd/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/freebsd/](https://mirror.nju.edu.cn/freebsd/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1865,6 +1989,10 @@ ARM架构下的CentOS镜像。
   - [https://mirrors.ustc.edu.cn/gnu/](https://mirrors.ustc.edu.cn/gnu/)
 - 兰州大学
   - [https://mirror.lzu.edu.cn/gnu/](https://mirror.lzu.edu.cn/gnu/)
+- 北京交通
+  - [https://mirror.bjtu.edu.cn/gnu/](https://mirror.bjtu.edu.cn/gnu/)
+- 南京大学
+  - [https://mirror.nju.edu.cn/gnu/](https://mirror.nju.edu.cn/gnu/)
 
 🔝[回到顶部](#thanks-mirror)
 
@@ -1905,6 +2033,8 @@ ARM架构下的CentOS镜像。
   - [docker proxy](https://dockerproxy.com/)
     - dockerproxy.com
 - gcr.io
+  - 南京大学
+    - gcr.nju.edu.cn
   - [docker proxy](https://dockerproxy.com/)
     - gcr.dockerproxy.com
   - [lank8s](https://github.com/lank8s)：后期可能会转成付费
@@ -1912,6 +2042,8 @@ ARM架构下的CentOS镜像。
 - k8s.gcr.io
   - 上海交通大学
     - k8s-gcr-io.mirrors.sjtug.sjtu.edu.cn
+  - 南京大学
+    - gcr.nju.edu.cn/google-containers
   - [docker proxy](https://dockerproxy.com/)
     - k8s.dockerproxy.com
   - [lank8s](https://github.com/lank8s)
@@ -1919,9 +2051,16 @@ ARM架构下的CentOS镜像。
 - ghcr.io
   - [docker proxy](https://dockerproxy.com/)
     - ghcr.dockerproxy.com
+  - 南京大学
+    - ghcr.nju.edu.cn
 - quay.io
   - 中科大
     - quay.mirrors.ustc.edu.cn
+  - 南京大学
+    - quay.nju.edu.cn
+- nvcr.io
+  - 南京大学
+    - ngc.nju.edu.cn
 
 **方案二：**
 
@@ -1955,6 +2094,8 @@ $ sudo systemctl restart docker
   - [https://docker.mirrors.ustc.edu.cn](https://docker.mirrors.ustc.edu.cn)
 - 百度云
   - [https://mirror.baidubce.com/](https://mirror.baidubce.com/)
+- 南京大学
+  - [https://docker.nju.edu.cn/]( https://docker.nju.edu.cn/)
 
 
 🔝[回到顶部](#thanks-mirror)
