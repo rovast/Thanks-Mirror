@@ -2108,6 +2108,12 @@ FreeBSD: { enabled: no }
 
 将 `ServerName update.FreeBSD.org` 修改为 `ServerName update.FreeBSD.cn`
 
+#### Git 镜像站
+
+更新系统或者使用 gitup 的时候会用到 FreeBSD 的 git 镜像站：
+
+<https://git.freebsd.cn>
+
 🔝[回到顶部](#thanks-mirror)
 
 ### GNU
@@ -2335,6 +2341,13 @@ GitHub相关的国内镜像，有不同的使用方式，这里仅列出目前�
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ykla">
+            <img src="https://avatars.githubusercontent.com/u/10327999?v=4" width="100;" alt="ykla"/>
+            <br />
+            <sub><b>Ykla</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Hanjingxue-Boling">
             <img src="https://avatars.githubusercontent.com/u/87272716?v=4" width="100;" alt="Hanjingxue-Boling"/>
             <br />
@@ -2353,13 +2366,6 @@ GitHub相关的国内镜像，有不同的使用方式，这里仅列出目前�
             <img src="https://avatars.githubusercontent.com/u/40517872?v=4" width="100;" alt="danbai225"/>
             <br />
             <sub><b>淡白</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ykla">
-            <img src="https://avatars.githubusercontent.com/u/10327999?v=4" width="100;" alt="ykla"/>
-            <br />
-            <sub><b>Ykla</b></sub>
         </a>
     </td></tr>
 <tr>
